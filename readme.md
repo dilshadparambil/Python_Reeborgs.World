@@ -9,9 +9,9 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 
 ## 📅 Table of Contents
 
-| S.No | Challenge Title         | Link                                   | Solution                               |
-|------|-------------------------|----------------------------------------|----------------------------------------|
-| 1    | Band Name Generator     | [1](#1-home-1)                         |[link](solutions/home1.py)              |
+| S.No | Challenge Title  | Link                | Solution                    |
+|------|------------------|---------------------|-----------------------------|
+| 1    | Home 1           | [1](#1-home-1)      |[link](solutions/home1.py)   |
 
 ---
 
