@@ -11,24 +11,27 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 
 | S.No | Challenge Title  | Link                | Solution                    |
 |------|------------------|---------------------|-----------------------------|
-| 1    | Home 1           | [1](#1-home-1)      |[link](solutions/home1.py)   |
-| 2    | Home 2           | [2](#2-home-2)      |[link](solutions/home2.py)   |
+| 1    | Home 1           | [Game 1](#game-1-home-1)      |[link](solutions/home1.py)   |
+| 2    | Home 2           | [Game 2](#game-2-home-2)      |[link](solutions/home2.py)   |
 
 
 ---
 
-### 1: Home 1
+### Game 1: Home 1
   
 #### I want to go home!  
+[Game Link](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Home%201&url=worlds%2Ftutorial_en%2Fhome1.json)
+
 - Write a program that makes Reeborg go home.  
 - **What you need to know:** The function `move().`  
 - **Goal to achieve:** The final position of the robot must be (x, y) = (1, 1)
-[challengelink](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Home%201&url=worlds%2Ftutorial_en%2Fhome1.json)
+
 ---
 
-### 2: Home 2
+### Game 2: Home 2
   
 #### I want to go home!  
+[Game Link](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Home%202&url=worlds%2Ftutorial_en%2Fhome2.json)
 - Write a program that makes Reeborg go home.  
 - **What you need to know:** The function `move().`  
 - **Goal to achieve:** The final position of the robot must be (x, y) = (1, 1)
