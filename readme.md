@@ -11,7 +11,8 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 
 | S.No | Challenge Title         | Link                                   | Solution                               |
 |------|-------------------------|----------------------------------------|----------------------------------------|
-| 1    | Band Name Generator     | [Day 1](#https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Home%201&url=worlds%2Ftutorial_en%2Fhome1.json)    |[Day 1](solutions/home1.py)     |
-
+| 1    | Band Name Generator     | [1](#1-home-1)                         |[link](solutions/home1.py)              |
 
 ---
+
+### 1: Home 1
