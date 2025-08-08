@@ -6,3 +6,12 @@ You should have a look at the [documentation](https://reeborg.ca/docs/en/), whic
 Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 
 ---
+
+## 📅 Table of Contents
+
+| S.No | Challenge Title         | Link                                   | Solution                               |
+|------|-------------------------|----------------------------------------|----------------------------------------|
+| 1    | Band Name Generator     | [Day 1](#https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Home%201&url=worlds%2Ftutorial_en%2Fhome1.json)    |[Day 1](solutions/home1.py)     |
+
+
+---
