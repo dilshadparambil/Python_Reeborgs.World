@@ -17,11 +17,11 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 
 ### 1: Home 1
   
-I want to go home!  
-Write a program that makes Reeborg go home.  
-**What you need to know**  
-The function `move().`  
-**Goal to achieve:**  
-The final position of the robot must be (x, y) = (1, 1)
+#### I want to go home!  
+- Write a program that makes Reeborg go home.  
+- **What you need to know**  
+- The function `move().`  
+- **Goal to achieve:**  
+- The final position of the robot must be (x, y) = (1, 1)
 
 ---
