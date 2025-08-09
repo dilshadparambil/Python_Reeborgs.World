@@ -64,12 +64,12 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
     - Once you know how to define functions, write a solution with the repeated code put in functions. For example, the yellow shape forms a letter L.
     - This suggest that, we could define two functions, L_shape() and next_L() and use them to solve the problem.
     - Using Python and the special keyword repeat/for unique to Reeborg's World, a solution could be written as:
-     ```
+      ```
       repeat 3:
         L_shape()
         next_L()
       L_shape()
-     ```
+      ```
     - Whereas in traditional Python, it would be written as:  ```
       ```
       for _ in range(3):
