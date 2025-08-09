@@ -9,7 +9,7 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 
 ## 📅 Table of Contents
 
-| S.No | Challenge Title  | Link                          | Solution                    |
+| S.No | Challenge Title  | Goto                          | Solution                    |
 |------|------------------|-------------------------------|-----------------------------|
 | 1    | Home 1           | [Game 1](#game-1-home-1)      |[link](solutions/home1.py)   |
 | 2    | Home 2           | [Game 2](#game-2-home-2)      |[link](solutions/home2.py)   |
