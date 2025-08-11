@@ -6,12 +6,12 @@
 
 - Write a program that makes Reeborg go home.  
 ### What you need to know:  
-    The function `move().`  
+  - The function `move().`
 
-    A robot located at (x, y) = (3, 1) carries no objects.  
+- A robot located at (x, y) = `(3, 1)` carries no objects.  
 
 ### Goal to achieve:  
-    The final position of the robot must be (x, y) = (1, 1)
+  - The final position of the robot must be (x, y) = `(1, 1)`
 
 
 ---
