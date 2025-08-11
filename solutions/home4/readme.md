@@ -4,9 +4,11 @@
 [Game Link](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Home%202&url=worlds%2Ftutorial_en%2Fhome4.json)
 [Solution link](home4.py)  
 
-- Write a program that makes Reeborg go home.  
+Write a program that makes Reeborg go home  
+
 ## What you need to know:  
-  - The function `move()` and `turn_left().` To make Reeborg **turn right**, you will have to tell it to `turn_left()` three times in a row.
+  - The function `move()` and `turn_left().` To make Reeborg **turn right**, you will have to tell it to `turn_left()` three times in a row.  
+
 ### More Advanced:  
   - You may have noticed that your solution as some repeated patterns as you can see from the image below.  
   - Once you know how to define functions, write a solution with the repeated code put in functions. For example, the yellow shape forms a letter L.
@@ -27,7 +29,8 @@
     ```
   - If you know how to define functions, you should attempt to write a similar program.  
 
-- A robot located at (x, y) = `(4, 1)` carries no objects  
+A robot located at (x, y) = `(4, 1)` carries no objects  
+
 ## Goal to achieve:  
   - The final position of the robot must be (x, y) = `(5, 1)`
 

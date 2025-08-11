@@ -4,7 +4,8 @@
 [Game Link](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Home%201&url=worlds%2Ftutorial_en%2Fhome2.json)  
 [Solution link](home2.py)
 
-Write a program that makes Reeborg go home.  
+Write a program that makes Reeborg go home  
+
 ### What you need to know:  
   - The function `move().`  
 
