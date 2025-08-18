@@ -9,12 +9,13 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 
 ## 📅 Table of Contents
 
-| S.No | Challenge Title  | Goto                                   |
-|------|------------------|----------------------------------------|
-| 1    | Home 1           | [Game 1](solutions/home1/README.md)    |
-| 2    | Home 2           | [Game 2](solutions/home2/README.md)    |
-| 3    | Home 3           | [Game 3](solutions/home3/README.md)    |
-| 4    | Home 4           | [Game 4](solutions/home4/README.md)    |
-| 5    | Around 1         | [Game 5](solutions/around1/README.md)  |
+| S.No | Challenge Title        | Goto                                              |  
+|------|------------------------|---------------------------------------------------|
+| 1    | Home 1                 | [Game 1](solutions/home1/README.md)               |  
+| 2    | Home 2                 | [Game 2](solutions/home2/README.md)               |
+| 3    | Home 3                 | [Game 3](solutions/home3/README.md)               |
+| 4    | Home 4                 | [Game 4](solutions/home4/README.md)               |
+| 5    | Around 1               | [Game 5](solutions/around1/README.md)             |
+| 6    | Around 1 - Variable    | [Game 6](solutions/around1_variable/README.md)    |
 
 ---
