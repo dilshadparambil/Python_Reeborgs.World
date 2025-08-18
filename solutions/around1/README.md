@@ -14,11 +14,10 @@ Have Reeborg go around the world in the counter-clockwise direction once, and st
   - Either the test `front_is_clear()` or `wall_in_front()`, and `object_here()`.
   - How to use a `while` or a `repeat/for` loop and an `if` statement.
   - It might be useful to know how to use the negation of a test (`not` in Python).
-  - Ideally, you should define your own functions to make your program easier to understand. *Hint: Reeborg carries some tokens; you only need to use one.*
+  - Ideally, you should define your own functions to make your program easier to understand. 
+  
+  *Hint: Reeborg carries some tokens; you only need to use one.*
 
-A robot located at (x, y) = `(1, 1)` carries **token:499**
-
-## Goal to achieve:  
-  - The final position of the robot must be (x, y) = `(1, 1)`
+A robot located at (x, y) = `(1, 1)` carries **token:500**
 
 ---

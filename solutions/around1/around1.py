@@ -1,8 +1,3 @@
-def turn_right():
-    turn_left()
-    turn_left()
-    turn_left()
-
 put()
 move()
 while not object_here():
