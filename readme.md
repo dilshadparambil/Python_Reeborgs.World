@@ -17,5 +17,6 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 | 4    | Home 4                 | [Game 4](solutions/home4/README.md)               |
 | 5    | Around 1               | [Game 5](solutions/around1/README.md)             |
 | 6    | Around 1 - Variable    | [Game 6](solutions/around1_variable/README.md)    |
+| 7    | Around 1 - Apple       | [Game 7](solutions/around1_apple/README.md)       |
 
 ---
