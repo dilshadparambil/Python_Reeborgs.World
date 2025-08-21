@@ -19,5 +19,8 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 | 6    | Around 1 - Variable    | [Game 6](solutions/around1_variable/README.md)    |
 | 7    | Around 1 - Apple       | [Game 7](solutions/around1_apple/README.md)       |
 | 8    | Around 2               | [Game 8](solutions/around2/README.md)             |
+| 9    | Around 3               | [Game 9](solutions/around3/README.md)             |
+
+
 
 ---
