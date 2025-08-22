@@ -20,6 +20,7 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 | 7    | Around 1 - Apple       | [Game 7](solutions/7_around_1_apple/README.md)       |
 | 8    | Around 2               | [Game 8](solutions/8_around_2/README.md)             |
 | 9    | Around 3               | [Game 9](solutions/9_around_3/README.md)             |
+| 10   | Around 4               | [Game 10](solutions/10_around_4/README.md)           |
 
 
 
