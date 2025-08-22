@@ -9,17 +9,17 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 
 ## 📅 Table of Contents
 
-| S.No | Challenge Title        | Goto                                              |  
-|------|------------------------|---------------------------------------------------|
-| 1    | Home 1                 | [Game 1](solutions/home1/README.md)               |  
-| 2    | Home 2                 | [Game 2](solutions/home2/README.md)               |
-| 3    | Home 3                 | [Game 3](solutions/home3/README.md)               |
-| 4    | Home 4                 | [Game 4](solutions/home4/README.md)               |
-| 5    | Around 1               | [Game 5](solutions/around1/README.md)             |
-| 6    | Around 1 - Variable    | [Game 6](solutions/around1_variable/README.md)    |
-| 7    | Around 1 - Apple       | [Game 7](solutions/around1_apple/README.md)       |
-| 8    | Around 2               | [Game 8](solutions/around2/README.md)             |
-| 9    | Around 3               | [Game 9](solutions/around3/README.md)             |
+| S.No | Challenge Title        | Goto                                                 |  
+|------|------------------------|------------------------------------------------------|
+| 1    | Home 1                 | [Game 1](solutions/1_home_1/README.md)               |  
+| 2    | Home 2                 | [Game 2](solutions/2_home_2/README.md)               |
+| 3    | Home 3                 | [Game 3](solutions/3_home_3/README.md)               |
+| 4    | Home 4                 | [Game 4](solutions/4_home_4/README.md)               |
+| 5    | Around 1               | [Game 5](solutions/5_around_1/README.md)             |
+| 6    | Around 1 - Variable    | [Game 6](solutions/6_around_1_variable/README.md)    |
+| 7    | Around 1 - Apple       | [Game 7](solutions/7_around_1_apple/README.md)       |
+| 8    | Around 2               | [Game 8](solutions/8_around_2/README.md)             |
+| 9    | Around 3               | [Game 9](solutions/9_around_3/README.md)             |
 
 
 
