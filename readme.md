@@ -22,7 +22,8 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 | 9    | Around 3               | [Game 09](solutions/9_around_3/README.md)            |
 | 10   | Around 4               | [Game 10](solutions/10_around_4/README.md)           |
 | 11   | Center 1               | [Game 11](solutions/11_center_1/README.md)           |
-| 12   | Center 2               | [Game 11](solutions/12_center_2/README.md)           |
+| 12   | Center 2               | [Game 12](solutions/12_center_2/README.md)           |
+| 13   | Harvest 1              | [Game 13](solutions/13_harvest_1/README.md)          |
 
 
 
