@@ -24,6 +24,7 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 | 11   | Center 1               | [Game 11](solutions/11_center_1/README.md)           |
 | 12   | Center 2               | [Game 12](solutions/12_center_2/README.md)           |
 | 13   | Harvest 1              | [Game 13](solutions/13_harvest_1/README.md)          |
+| 14   | Harvest 2              | [Game 14](solutions/14_harvest_2/README.md)          |
 
 
 
