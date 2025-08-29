@@ -27,6 +27,7 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 | 14   | Harvest 2              | [Game 14](solutions/14_harvest_2/README.md)          |
 | 15   | Harvest 3              | [Game 15](solutions/15_harvest_3/README.md)          |
 | 16   | Hurdles 1              | [Game 16](solutions/16_hurdles_1/README.md)          |
+| 17   | Hurdles 2              | [Game 17](solutions/17_hurdles_2/README.md)          |
 
 
 
