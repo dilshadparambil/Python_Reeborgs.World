@@ -31,7 +31,8 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 | 18   | Hurdles 3              | [Game 18](solutions/18_hurdles_3/README.md)          |
 | 19   | Hurdles 4              | [Game 19](solutions/19_hurdles_4/README.md)          |
 | 20   | Maze                   | [Game 20](solutions/20_maze/README.md)               |
-| 21   | Newspaper 0            | [Game 20](solutions/21_newspaper_0/README.md)        |
+| 21   | Newspaper 0            | [Game 21](solutions/21_newspaper_0/README.md)        |
+| 22   | Newspaper 1            | [Game 22](solutions/22_newspaper_1/README.md)        |
 
 
 
