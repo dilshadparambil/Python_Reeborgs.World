@@ -33,6 +33,7 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 | 20   | Maze                   | [Game 20](solutions/20_maze/README.md)               |
 | 21   | Newspaper 0            | [Game 21](solutions/21_newspaper_0/README.md)        |
 | 22   | Newspaper 1            | [Game 22](solutions/22_newspaper_1/README.md)        |
+| 23   | Rain 0                 | [Game 23](solutions/23_rain_0/README.md)             |
 
 
 
