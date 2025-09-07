@@ -36,6 +36,7 @@ Reborg's World website: [click here](https://reeborg.ca/index_en.html)
 | 23   | Rain 0                 | [Game 23](solutions/23_rain_0/README.md)             |
 | 24   | Rain 1                 | [Game 24](solutions/24_rain_1/README.md)             |
 | 25   | Rain 2                 | [Game 25](solutions/25_rain_2/README.md)             |
+| 26   | Storm 1                | [Game 26](solutions/26_storm_1/README.md)             |
 
 
 
