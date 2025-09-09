@@ -9,3 +9,4 @@ Saskatchewan CS 20 is a collection adapted from the worlds used in the [Computer
 | S.No | Challenge Title        | Goto                      |  
 |------|------------------------|---------------------------|
 | 1    | Step 1                 | [Game 01](1/README.md)    |  
+| 2    | Step 2                 | [Game 02](2/README.md)    |  
