@@ -34,5 +34,6 @@ Introduction to Reeborg is the collection of worlds used in the [tutorial found 
 | 24   | Rain 1                 | [Game 24](24/README.md)   |
 | 25   | Rain 2                 | [Game 25](25/README.md)   |
 | 26   | Storm 1                | [Game 26](26/README.md)   |
+| 27   | Storm 2                | [Game 27](27/README.md)   |
 
 ---
